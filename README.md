@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Bekir Uğur</h1>
 
-<p>- 🔭 I'm currently working on solo shooter game.</p>
+<p>- 🔭 I'm currently working on cool game.</p>
 <p>- 🌱 I’m currently learning shader graph.</p>
 <p>- 👯 I’m looking to collaborate on with a large and passionate team.</p>
 
